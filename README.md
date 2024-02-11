@@ -42,8 +42,5 @@ This project provides a classic Tic-Tac-Toe game where two players can take turn
 
 If you'd like to contribute or report issues, please feel free to open an [issue](https://github.com/alibhrloui/tic-tac-toe/issues) or submit a [pull request](https://github.com/alibhrloui/tic-tac-toe/pulls).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Have fun playing Tic-Tac-Toe!
